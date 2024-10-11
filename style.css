@@ -1,0 +1,26 @@
+img {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+}
+
+body {
+    width: 80%;
+    margin: 10vh auto !important;
+    background-image: url(https: //www.art-prints-on-demand.com/kunst/ana_rut_bre/freundliche_farben3_lo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.form-control {
+    display: flex;
+    width: 20%;
+    padding: .375rem .75rem; 
+}
+
+.form-text {
+    margin-top: .25rem;
+    font-size: .875em;
+    color: white;
+}
